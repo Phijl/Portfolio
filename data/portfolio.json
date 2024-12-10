@@ -1,0 +1,53 @@
+[
+    {
+        "image": "eco.webp",
+        "alt": "Eco Bliss Bath",
+        "title": "Eco-Bliss-Bath",
+        "text": "Automatisez des tests pour une boutique en ligne.",
+        "link": "https://github.com/Phijl/Eco-Bliss-Bath.git"
+    },
+    {
+        "image": "aparte.webp",
+        "alt": "Aparté du bien-être",
+        "title": "Aparté du bien-être",
+        "text": "Site web avec Wordpress.",
+        "link": "https://apartedubienetre.fr/"
+    },
+    {
+        "image": "image3.webp",
+        "alt": "Kasa",
+        "title": "Kasa",
+        "text": "Application web de location immobilière avec React.",
+        "link": "https://github.com/Phijl/Kasa.git"
+    },
+    {
+        "image": "sophie.webp",
+        "alt": "Sophie Bluel",
+        "title": "Sophie Bluel",
+        "text": "Site web dynamique avec JavaScript.",
+        "link": "https://github.com/Phijl/SophieBluel"
+    },
+    {
+        "image": "print.webp",
+        "alt": "Print it!",
+        "title": "Print it",
+        "text": "Site web en Javascript.",
+        "link": "https://phijl.github.io/Print-it-JS-main/"
+    },
+    {
+        "image": "riding.webp",
+        "alt": "Riding cities",
+        "title": "Riding cities",
+        "text": "Prise en main HTML & CSS.",
+        "link": "https://phijl.github.io/P2-OC/"
+    },
+    {
+        "image": "booki.webp",
+        "alt": "Booki",
+        "title": "Booki",
+        "text": "Page web en HTML & CSS.",
+        "link": "https://phijl.github.io/booki-starter-code-master/"
+    }
+
+    
+]
